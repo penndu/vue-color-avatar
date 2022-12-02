@@ -19,7 +19,6 @@
             })
           "
         >
-          <img :src="https://cdn.dusays.com/favicon.ico" alt="杜老师说" />
           <span class="text">意见反馈</span>
         </button>
       </a>

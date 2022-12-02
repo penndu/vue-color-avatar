@@ -1,7 +1,7 @@
 <template>
   <img
     style="width: 40px; height: 40px"
-    :src="LogoSvg"
+    :src="https://cdn.dusays.com/favicon.ico"
     :style="{ width: `${props.size}rem`, height: `${props.size}rem` }"
     alt="logo"
   />
