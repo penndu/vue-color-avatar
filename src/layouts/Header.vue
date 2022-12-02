@@ -2,11 +2,11 @@
   <header class="header">
     <Logo />
 
-    <h2 class="site-title">Color Avatar</h2>
+    <h2 class="site-title">头像生成</h2>
 
     <div class="header-right">
       <a
-        href="https://github.com/Codennnn/vue-color-avatar"
+        href="https://dusays.com/531/"
         target="_blank"
         rel="nofollow noopener noreferrer"
       >
@@ -19,8 +19,8 @@
             })
           "
         >
-          <img :src="IconGitHub" alt="GitHub" />
-          <span class="text">GitHub</span>
+          <img :src="https://cdn.dusays.com/favicon.ico" alt="杜老师说" />
+          <span class="text">意见反馈</span>
         </button>
       </a>
     </div>
