@@ -3,14 +3,14 @@
     <div
       data-message="If you are deploying to your own public website, please do not modify it unless you have permission from the original author."
     >
-      Made by
+      Powered by
       <a
         class="link"
-        href="https://leoku.top"
+        href="https://dusays.com"
         target="_blank"
         rel="nofollow noopener noreferrer"
       >
-        LeoKu
+        杜老师说
       </a>
     </div>
 
