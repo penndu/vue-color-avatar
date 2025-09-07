@@ -20,7 +20,7 @@
           "
         >
           <img :src="IconGitHub" alt="GitHub" />
-          <span class="text">GitHub</span>
+          <span class="text">意见反馈</span>
         </button>
       </a>
     </div>
